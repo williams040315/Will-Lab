@@ -29,3 +29,4 @@ def random_change(image):
     if np.random.randint(2):
         img = color(img)
     return img
+#
